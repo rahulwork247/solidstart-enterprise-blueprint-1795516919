@@ -1,0 +1,19 @@
+{
+  "name": "solidstart-enterprise-blueprint-1795516919",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "solid-js": "^1.8.0",
+    "solid-start": "^0.3.0",
+    "vite": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0",
+    "@types/node": "^20.5.0"
+  }
+}
